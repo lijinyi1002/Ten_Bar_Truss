@@ -1,6 +1,6 @@
 # Ten_Bar_Truss作業說明
 
-在Matlab中，總共有個.m檔，分別是"get_tenbar_result"、"main"、"nonlcon"、"obj"、"get_length"、"get_sincos"，其中只有"main"是script底稿，其餘皆為function函式。以下分別說明各檔案的功能:
+在Matlab中，總共有5個.m檔，分別是"get_tenbar_result"、"main"、"nonlcon"、"obj"、"get_length"、"get_sincos"，其中只有"main"是script底稿，其餘皆為function函式。以下分別說明各檔案的功能:
 
 ---
 
